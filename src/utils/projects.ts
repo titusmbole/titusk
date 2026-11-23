@@ -10,6 +10,15 @@ export const PROJECTS : { title: string; description: string; technologies: stri
     screenshot: `https://s.wordpress.com/mshots/v1/https%3A%2F%2Fimaradesk.com?w=800&h=500`,
   },
   {
+    title: 'DoveORM',
+    description:
+      'Lightweight, security-hardened Python ORM for SQLite, MySQL/MariaDB and PostgreSQL. Inspired by Django, Spring Boot & ActiveRecord — featuring auto-generated reversible migrations, dynamic finders, chainable lazy QuerySets, relationships with eager loading, nested transactions, and safe-by-default protections against SQL injection and mass assignment. MIT licensed, published on PyPI.',
+    technologies: ['Python', 'SQLite', 'MySQL', 'PostgreSQL', 'CLI'],
+    githubLink: 'https://github.com/imaradesk/doveorm',
+    liveLink: 'https://doveorm.imaradesk.com',
+    screenshot: `https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdoveorm.imaradesk.com?w=800&h=500`,
+  },
+  {
     title: 'Makao Smart',
     description:
       'Property management platform built for the African market. Automates rent collection, tenant onboarding, maintenance tracking, lease management, and financial reporting. Integrated with M-Pesa, Equity Bank, KCB, Co-op Bank, and other Kenyan payment providers. Serving 500+ properties.',
