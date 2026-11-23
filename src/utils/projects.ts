@@ -27,15 +27,15 @@ export const PROJECTS : { title: string; description: string; technologies: stri
     liveLink: 'https://makaosmart.org',
     screenshot: `https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmakaosmart.org?w=800&h=500`,
   },
-  {
-    title: 'Imarachat',
-    description:
-      'Real-time live chat and messaging platform for customer support teams. Embeddable chat widgets, agent dashboards, conversation routing, and seamless integration with the Imaradesk ticketing ecosystem. Enables instant customer engagement across websites and apps.',
-    technologies: ['Spring Boot', 'React', 'WebSocket', 'Docker', 'Microservices'],
-    githubLink: '',
-    liveLink: 'https://imaradesk.com/products/imarachat',
-    screenshot: `https://s.wordpress.com/mshots/v1/https%3A%2F%2Fimaradesk.com%2Fproducts%2Fimarachat?w=800&h=500`,
-  },
+  // {
+  //   title: 'Imarachat',
+  //   description:
+  //     'Real-time live chat and messaging platform for customer support teams. Embeddable chat widgets, agent dashboards, conversation routing, and seamless integration with the Imaradesk ticketing ecosystem. Enables instant customer engagement across websites and apps.',
+  //   technologies: ['Spring Boot', 'React', 'WebSocket', 'Docker', 'Microservices'],
+  //   githubLink: '',
+  //   liveLink: 'https://imaradesk.com/products/imarachat',
+  //   screenshot: `https://s.wordpress.com/mshots/v1/https%3A%2F%2Fimaradesk.com%2Fproducts%2Fimarachat?w=800&h=500`,
+  // },
   {
     title: 'FarmDoctor AI',
     description:
